@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.items{
+    width: 500px;
+    border: 1px solid black;
+    margin: 10px auto;
+    border-radius: 10px;
+
+}
